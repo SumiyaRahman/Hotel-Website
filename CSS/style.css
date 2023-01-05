@@ -58,3 +58,111 @@ body{
     margin-right: 20px;
 }
 /* about end */
+
+/* room start */
+.room{
+    margin: 100px 0px;
+}
+.col{
+    margin-top: 5%;
+}
+.room-text h1{
+    color: #01014e;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.room-text p{
+    color: #757575;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.card-body h5{
+    color: #01014e;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+.card-text{
+    color: #757575;
+}
+.price{
+    color: #01014e;
+    font-size: 2rem;
+    font-weight: 700;
+}
+/* room end */
+
+/* gallery start */
+.gallery-img{
+    margin-top: 3%;
+}
+/* gallery end */
+
+/* footer */
+footer{
+    background-color: #000027;
+    margin-top: 10%;
+    padding-top: 80px;
+    padding-bottom:30px ;
+}
+.copy{
+    text-align: center;
+    margin-top: 30px;
+    color: #757575;
+    color: #f5f5f5;
+    letter-spacing: 1px;
+}
+.footer-text h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.footer-text p{
+    color: #bbbaba;
+    line-height: 28px;
+    font-size: 13px;
+}
+.foot-ul{
+    list-style-type: none;
+}
+.foot-ul li{
+    line-height: 30px;
+}
+.foot-ul a{
+    text-decoration: none;
+    color: #f5f5f5;
+    font-weight: 500;
+}
+.email{
+    color: #f5f5f5;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.email-input{
+    border-radius: 5px;
+    border: none;
+    padding: 10px 0px;
+    width: 180%;
+}
+.email-input::placeholder{
+    padding-left: 10px;
+    font-size: 13px;
+}
+.btn{
+    background: transparent;
+    margin-top: 20px;
+    border: 1px solid #f5f5f5;
+    width: 180%;
+    font-size: 13px;
+    color: #f5f5f5;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color: #f5f5f5;
+    color: #01014e;
+}
